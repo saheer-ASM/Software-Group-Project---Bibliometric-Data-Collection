@@ -1,0 +1,5 @@
+To insert Book1.csv file
+python examples\batch_classify_csv.py Book1.csv
+
+
+result csv in bachend
